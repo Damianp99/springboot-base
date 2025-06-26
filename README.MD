@@ -24,8 +24,11 @@ A lightweight Java library for standardized CRUD logic in Spring Boot applicatio
 
 ---
 
-## 📄 Localized Documentation
+### English
+[English Documentation (README_EN.md)](README_EN.md)
 
-- 🇬🇧 English → [README_EN.md](README_EN.md)
-- 🇮🇹 Italian → [README_IT.md](README_IT.md)
-- 🇪🇸 Spanish → [README_ES.md](README_ES.md)
+### Italian
+[Italian Documentation (README_IT.md)](README_IT.md)
+
+### Spanish
+[Spanish Documentation (README_ES.md)](README_ES.md)
