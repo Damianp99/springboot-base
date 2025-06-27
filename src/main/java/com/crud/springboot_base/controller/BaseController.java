@@ -1,6 +1,7 @@
 package com.crud.springboot_base.controller;
 
 import com.crud.springboot_base.services.BaseService;
+import jakarta.validation.Valid;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.HttpStatus;
